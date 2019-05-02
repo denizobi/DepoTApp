@@ -1,0 +1,36 @@
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\083005334\obj\Debug\ResolveAssemblyReference.cache
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\083005334\obj\Debug\_083005334.Properties.Resources.resources
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\083005334\obj\Debug\083005334.csproj.GenerateResource.Cache
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\083005334\bin\Debug\bin\Debug\db.mdb
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\083005334\bin\Debug\083005334.exe.config
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\083005334\bin\Debug\083005334.exe
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\083005334\bin\Debug\083005334.pdb
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\083005334\obj\Debug\083005334.exe
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\083005334\obj\Debug\083005334.pdb
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\083005334\obj\Debug\_083005334.frm_Yonetici.resources
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\083005334\obj\Debug\_083005334.frm_Satis.resources
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\083005334\obj\Debug\_083005334.frm_Giris.resources
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\_083005334\bin\Debug\083005334.exe.config
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\_083005334\obj\Debug\083005334.exe
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\_083005334\obj\Debug\083005334.pdb
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\_083005334\bin\Debug\bin\Debug\db.mdb
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\_083005334\bin\Debug\083005334.exe
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\_083005334\bin\Debug\083005334.pdb
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\_083005334\obj\Debug\ResolveAssemblyReference.cache
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\_083005334\obj\Debug\_083005334.frm_Yonetici.resources
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\_083005334\obj\Debug\_083005334.frm_Satis.resources
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\_083005334\obj\Debug\_083005334.frm_Giris.resources
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\_083005334\obj\Debug\_083005334.Properties.Resources.resources
+H:\UEMYO\IV.DÖNEM\BLP-204 C# PROGRAMLAMA II\_083005334\obj\Debug\083005334.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\083005334\bin\Debug\083005334.exe.config
+C:\Documents and Settings\Administrator\Desktop\083005334\obj\Debug\083005334.exe
+C:\Documents and Settings\Administrator\Desktop\083005334\obj\Debug\083005334.pdb
+C:\Documents and Settings\Administrator\Desktop\083005334\bin\Debug\bin\Debug\db.mdb
+C:\Documents and Settings\Administrator\Desktop\083005334\bin\Debug\083005334.exe
+C:\Documents and Settings\Administrator\Desktop\083005334\bin\Debug\083005334.pdb
+C:\Documents and Settings\Administrator\Desktop\083005334\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\083005334\obj\Debug\_083005334.frm_Yonetici.resources
+C:\Documents and Settings\Administrator\Desktop\083005334\obj\Debug\_083005334.frm_Giris.resources
+C:\Documents and Settings\Administrator\Desktop\083005334\obj\Debug\_083005334.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\083005334\obj\Debug\083005334.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\083005334\obj\Debug\_083005334.frm_Kullanici.resources
